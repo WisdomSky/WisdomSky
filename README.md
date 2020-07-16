@@ -9,7 +9,7 @@ I am a software developer from **Cebu** who specifically enjoys developing diffe
 
 ```javascript
 
-  const 🔥 Communities = [
+  const 🔥Communities = [
     {
           name   : "VueJS Cebu",
           roles  : ["⭐️ Organizer", "🎤 Speaker"],
