@@ -4,7 +4,7 @@
 <i>But if you're asking for my real name, it is </i> <strong>Julian Paolo Dayag</strong>. (You can also look find it at the left if you don't believe me) 😁
 
 
-I am a software developer who specifically enjoy developing different web applications and tools. 👨🏽‍💻🛠🌍
+I am a software developer who specifically enjoys developing different web applications and tools. 👨🏽‍💻🛠🌍
 
 I'm from **Cebu**, and I'm an active member of different tech communities in the area. __(Google Developers Group Cebu, VueJS Cebu, Laravel Cebu, Javascript Cebu, etc)__ ⭐️
 
