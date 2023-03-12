@@ -1,9 +1,5 @@
 ### Hey, I'm WisdomSky! 😉
 
-
-<i>But if you're asking for my real name, it is </i> <strong>Julian Paolo Dayag</strong>. (You can also look find it at the left if you don't believe me) 😁
-
-
 I am a software developer from **Cebu** who specifically enjoys developing different web applications and tools. 👨🏽‍💻🛠🌍
 
 ### Communities I've joined...
