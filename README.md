@@ -1,4 +1,4 @@
-[![WisdomSky's Discord](https://img.shields.io/badge/Discord-paothevovo-blue)](https://discordapp.com/users/486122279936458762/)
+[![WisdomSky's Discord](https://img.shields.io/badge/Discord-@paothevovo-blue)](https://discordapp.com/users/486122279936458762/)
 
 
 [![committers.top badge](https://user-badge.committers.top/philippines/WisdomSky.svg)](https://user-badge.committers.top/philippines/WisdomSky)
